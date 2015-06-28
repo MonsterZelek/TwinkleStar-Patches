@@ -1,0 +1,11 @@
+--- a/target/linux/ramips/dts/TwinkleStarEDU.dts	2014-01-13 17:23:13.963259088 +0000
++++ b/target/linux/ramips/dts/TwinkleStarEDU.dts	2014-06-27 15:51:35.932726438 +0000
+@@ -4,7 +4,7 @@
+ 
+ / {
+ 	compatible = "TwinkleStar", "ralink,mt7620n-soc";
+-	model = "TwinkleStarEDU";
++	model = "TwinkleStarEDU";
+ 
+ 	palmbus@10000000 {
+ 		gpio2: gpio@660 {
